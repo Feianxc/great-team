@@ -1,0 +1,7 @@
+interface:
+  display_name: "Great Team"
+  short_description: "Sharpen the wedge before you build the wrong thing"
+  default_prompt: "Use $great-team to review this idea before we build: what is the real wedge, what should we cut, and what should we test first?"
+
+policy:
+  allow_implicit_invocation: true
