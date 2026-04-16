@@ -1,0 +1,51 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#1A1F38"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="154" y1="132" x2="1046" y2="498" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EE7F9"/>
+      <stop offset="0.45" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
+  <circle cx="1046" cy="126" r="178" fill="#1F2A4D" opacity="0.45"/>
+  <circle cx="154" cy="520" r="150" fill="#16203E" opacity="0.6"/>
+
+  <text x="88" y="134" fill="white" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="72" font-weight="700">Great Team</text>
+  <text x="88" y="198" fill="#C7D2FE" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="400">
+    开工前的伟大团队判断力
+  </text>
+  <text x="88" y="250" fill="#9FB0D8" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">
+    找切口 · 砍范围 · 先验证最关键的问题
+  </text>
+
+  <rect x="88" y="320" width="280" height="150" rx="20" fill="#10182E" stroke="#243253"/>
+  <text x="118" y="368" fill="#E5E7EB" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">输入</text>
+  <text x="118" y="408" fill="#9FB0D8" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="22">想法 / PRD / 功能草案</text>
+  <text x="118" y="440" fill="#9FB0D8" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="22">游戏概念 / agent workflow</text>
+
+  <rect x="460" y="286" width="280" height="218" rx="20" fill="#10182E" stroke="url(#accent)" stroke-width="2"/>
+  <text x="490" y="338" fill="#F8FAFC" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">核心审查</text>
+  <text x="490" y="382" fill="#D6BCFA" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="22">1. 找关键张力</text>
+  <text x="490" y="416" fill="#D6BCFA" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="22">2. 选伟大视角</text>
+  <text x="490" y="450" fill="#D6BCFA" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="22">3. 映射到职能区</text>
+  <text x="490" y="484" fill="#D6BCFA" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="22">4. 逼出 hard cut</text>
+
+  <rect x="832" y="320" width="280" height="150" rx="20" fill="#10182E" stroke="#243253"/>
+  <text x="862" y="368" fill="#E5E7EB" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">输出</text>
+  <text x="862" y="408" fill="#9FB0D8" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="22">Decision Memo</text>
+  <text x="862" y="440" fill="#9FB0D8" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="22">切口 / 砍点 / 下一步实验</text>
+
+  <path d="M368 395H434" stroke="url(#accent)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M740 395H806" stroke="url(#accent)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M424 380L450 395L424 410" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M796 380L822 395L796 410" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="88" y="564" fill="#7DD3FC" font-family="Microsoft YaHei, PingFang SC, Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">
+    不只是更多建议，而是开工前更强的判断力
+  </text>
+</svg>

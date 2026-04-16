@@ -17,7 +17,7 @@
 - 哪些内容现在就该砍
 - 最该先验证什么
 
-![Great Team cover](./docs/assets/great-team-cover.svg)
+![Great Team cover zh](./docs/assets/great-team-cover-zh.svg)
 
 ## 为什么叫「伟大团队」
 
@@ -40,6 +40,21 @@
 哲学会拉高意义标准，写作会拉高清晰度，科学会拉高可验证性，批评会逼你删掉没赚到的东西，社会心理会提醒你用户会怎样理解、抗拒、误读。
 
 `Great Team` 的价值，就在于把这种团队级判断密度压缩成一个可以直接调用的 Skill。
+
+### 一个具体例子
+
+比如你在做一个游戏，或者在做一个产品的第一版。  
+你不一定最缺一个“前端工程师 agent”或者“产品经理 agent”。  
+你更可能需要的是下面这种团队：
+
+- 一个**诗人 AGENT**，盯气质、节奏、情绪残响，防止作品只剩功能没有感觉
+- 一个**哲学家 AGENT**，盯这个东西为什么值得存在，防止方向只有功能没有立场
+- 一个**科学家 AGENT**，盯假设和验证，防止团队靠自我感觉推进
+- 一个**数学家 AGENT**，盯结构、规则和内部一致性，防止系统松散、边界模糊
+- 一个**批评家 AGENT**，专门负责砍掉没赚到的内容，防止第一版膨胀
+
+如果这些 AGENT 做得足够深，它们带来的就不是“几种不同意见”，而是一支真正像样的项目团队：  
+每个人都在用自己的专业判断压同一个项目，直到项目变得更清楚、更锋利。
 
 ## 这个 Skill 的卖点
 
@@ -150,7 +165,7 @@
 
 下面这张图展示的是它最终产物的形态：
 
-![Great Team memo preview](./docs/assets/great-team-memo-preview.svg)
+![Great Team memo preview zh](./docs/assets/great-team-memo-preview-zh.svg)
 
 ## 适合谁
 
