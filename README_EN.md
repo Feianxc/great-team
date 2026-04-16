@@ -44,6 +44,10 @@ Social psychology checks how people will interpret, resist, or misread the thing
 
 The value of `Great Team` is that it compresses this team-level judgment density into a skill you can invoke directly.
 
+The important point is that these lenses are **not fixed assignments**.  
+It is not “the poet handles tone,” “the scientist handles validation,” and “the mathematician handles structure.”  
+A great team gets stronger when different disciplines look across boundaries and press on the same project from different directions.
+
 ## What makes this skill valuable
 
 ### 1. It gives one builder a high-level review room
@@ -146,13 +150,20 @@ These “great lenses” are judgment systems, such as:
 
 ## Minimal example
 
-The problem with many ideas is not a lack of originality.  
-It is that **V1 tries to do too much**.
+Imagine you are building a game or the first version of a product.  
+What you may need is not a “frontend engineer agent” or a “PM agent” in the narrow sense.  
+You may need something more like this:
 
-`Great Team` is designed to force a judgment like:
+- a **poet agent** who questions tone, rhythm, emotional residue, and whether the thing has any soul
+- a **philosopher agent** who questions why this should exist and whether the direction has any real point of view
+- a **scientist agent** who designs the test, but may also force vague concepts into sharper definitions
+- a **mathematician agent** who cares about structure and consistency, but may also expose weak interaction logic
+- a **science-fiction writer agent** who looks at future imagination, world logic, and whether the idea is too timid
+- an **artist agent** who challenges form, tension, and distinctiveness across the whole project
+- a **critic agent** who cuts what has not been earned
 
-> Do not start with the full system. Start with the first believable wedge.  
-> Do not start with the platform. Start with the smallest workflow that changes a real decision.
+The point is not who owns which box.  
+The point is that **different kinds of minds are all pressing on the same project**.
 
 This is what the output shape looks like:
 

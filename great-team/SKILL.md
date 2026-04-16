@@ -14,6 +14,10 @@ The promise in the name matters:
 - **Team** = multiple strong lenses held on the same project until they converge into one decision
 - **Review** = a sharper build choice, not a longer brainstorm
 
+Do not interpret this as fixed labor routing.  
+The same lens may challenge product thesis, interface language, system coherence, or validation design.  
+The point is not to lock one expert type to one function. The point is to let several strong ways of seeing press on the same project from different angles.
+
 The core move is:
 - identify the project's **key tensions**
 - choose a small set of **great lenses** that fit those tensions
@@ -59,6 +63,7 @@ This skill is for moments when the user needs a stronger room around the project
    - Select 3-5 lenses that fit the tensions.
    - Map each lens to the function it should influence.
    - Prefer function mapping such as interface experience, system design, narrative, validation, distribution, or editorial quality over traditional job-title cloning.
+   - Treat function mapping as a **working overlay**, not a permanent assignment. A poet may reshape product thesis, a scientist may challenge interaction clarity, and an artist may critique system identity if that is where the tension lives.
    - For first-pass V1 reviews, map to **at most 3 function zones**. If the main problem is still product wedge or scope honesty, prioritize **Product Thesis / Scope** and **Validation / Research** before frontend/backend detail.
    - If you need to instantiate a lens as a reviewer or sub-agent, reuse the work-card format in `references/agent-card-examples.md` instead of inventing a new persona ad hoc.
 

@@ -224,6 +224,10 @@ The system should assemble a review based on:
 
 Not by naively cloning a company org chart.
 
+This also means lenses should not be read as fixed job substitutions.  
+A poet is not permanently assigned to “frontend,” and a scientist is not permanently assigned to “backend.”  
+Great Team gets stronger when different disciplines look across boundaries and press on the same problem from different directions.
+
 ### Principle 4 — Hard cuts are the value
 
 The strongest Great Team memos do not simply add perspective.  
