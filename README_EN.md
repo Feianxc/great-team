@@ -6,11 +6,12 @@
 
 [中文](./README.md) | **English**
 
-What is hardest to assemble around a project is often not tooling or execution.  
-It is a genuinely high-level room before you start building.
+**Great Team brings different kinds of high-level judgment onto the same project.**
 
-**Great Team** turns that room into a skill.  
-You give it an idea, PRD, feature draft, game concept, or agent workflow, and it brings several strong lenses onto the same project so you can see:
+Poets, philosophers, scientists, mathematicians, artists, critics, and science-fiction writers can all enter the same direction from their own training and push it further.  
+For an independent builder, this is what it means to have a genuinely great team before building.
+
+You give it an idea, PRD, feature draft, game concept, or agent workflow, and it presses those lenses onto the same project so you can see:
 
 - what the project really is
 - where the first wedge is
@@ -23,8 +24,7 @@ You give it an idea, PRD, feature draft, game concept, or agent workflow, and it
 
 ### Great
 
-“Great” is not about prestige.  
-It points to a higher standard of judgment:
+“Great” points to a higher standard of judgment:
 
 - seeing tensions normal advice misses
 - asking harder questions
@@ -33,8 +33,8 @@ It points to a higher standard of judgment:
 
 ### Team
 
-“Team” is not about stacking job titles.  
-It means **multiple strong lenses pulling on the same project until the standard gets higher and the decision gets sharper**.
+“Team” means multiple strong forms of judgment entering the same project at once.  
+They pull against each other, sharpen each other, and raise the standard together.
 
 Philosophy raises the bar on meaning.  
 Writing raises the bar on clarity.  
@@ -50,7 +50,7 @@ A great team gets stronger when different disciplines look across boundaries and
 
 ## What makes this skill valuable
 
-### 1. It gives one builder a high-level review room
+### 1. It gives one builder a real project room
 
 Most builders will never actually have this room on demand.  
 `Great Team` gives them access to a rarer resource: **cross-disciplinary, high-standard judgment with internal tension and counterweight**.

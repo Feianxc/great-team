@@ -1,6 +1,6 @@
 ---
 name: great-team
-description: "Assemble a great team around a project before building: a compact room of high-standard lenses that helps a fast-moving builder see what is worth building, what has not yet been earned, where the wedge is, and what must be cut or tested first. Use this skill for product ideas, PRDs, feature specs, game concepts, agent workflows, UX directions, system proposals, or strategy drafts when the user needs the judgment density of a great team—philosophy, writing, criticism, science, and social interpretation—converged into one structured decision memo."
+description: "Bring different kinds of high-level judgment onto the same project before building. Great Team helps a fast-moving builder gather a compact room of strong lenses—philosophy, writing, science, criticism, art, social interpretation, and more—so the wedge, the unearned ambition, the cut, and the first test become clearer. Use it for product ideas, PRDs, feature specs, game concepts, agent workflows, UX directions, system proposals, or strategy drafts when execution is easy but judgment is now the bottleneck."
 ---
 
 # Great Team
