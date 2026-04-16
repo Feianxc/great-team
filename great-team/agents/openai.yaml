@@ -1,7 +1,7 @@
 interface:
   display_name: "Great Team"
-  short_description: "Sharpen the wedge before you build the wrong thing"
-  default_prompt: "Use $great-team to review this idea before we build: what is the real wedge, what should we cut, and what should we test first?"
+  short_description: "Borrow a great team before you build"
+  default_prompt: "Use $great-team to assemble a great team around this idea: what is the wedge, what should we cut, and what should we test first?"
 
 policy:
   allow_implicit_invocation: true

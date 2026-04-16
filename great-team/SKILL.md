@@ -1,6 +1,6 @@
 ---
 name: great-team
-description: Assemble a pre-build great-team review when the user can already ship fast but is still unsure what the idea really is, where the wedge is, what to cut first, or what to test before wasting time building the wrong version. Use this skill for product ideas, PRDs, feature specs, game concepts, agent workflows, UX directions, system proposals, or strategy drafts that need cross-disciplinary judgment—not celebrity imitation—to surface the central tension, strongest objections, hard cuts, and next experiments in a structured decision memo.
+description: "Assemble a great team around a project before building: a compact room of high-standard lenses that helps a fast-moving builder see what is worth building, what has not yet been earned, where the wedge is, and what must be cut or tested first. Use this skill for product ideas, PRDs, feature specs, game concepts, agent workflows, UX directions, system proposals, or strategy drafts when the user needs the judgment density of a great team—philosophy, writing, criticism, science, and social interpretation—converged into one structured decision memo."
 ---
 
 # Great Team
@@ -8,6 +8,11 @@ description: Assemble a pre-build great-team review when the user can already sh
 ## Overview
 
 Use this skill to run a **great-team review before building**.
+
+The promise in the name matters:
+- **Great** = higher standards of judgment, taste, coherence, and scope honesty
+- **Team** = multiple strong lenses held on the same project until they converge into one decision
+- **Review** = a sharper build choice, not a longer brainstorm
 
 The core move is:
 - identify the project's **key tensions**
@@ -31,8 +36,11 @@ Use `great-team` when the user is saying some version of:
 - “我现在最缺的不是更多建议，而是明确该砍什么。”
 - “我不想再花几周做一个方向不够准的版本。”
 
-This skill is for moments when the user does **not** need more ideation.  
-They need a sharper decision.
+This skill is for moments when the user needs a stronger room around the project:
+- more pressure on the weak parts
+- more clarity on the wedge
+- more honesty about what has not been earned yet
+- more confidence in what to cut and test first
 
 ## Workflow
 

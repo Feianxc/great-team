@@ -6,10 +6,64 @@
 
 [中文](./README.md) | **English**
 
-**Great Team** is a pre-build judgment skill.  
-It does not give you more brainstorming. It gives you a harder answer: **what this project really is, what should be cut from V1, and what should be tested before you waste time building the wrong version.**
+What is hardest to assemble around a project is often not tooling or execution.  
+It is a genuinely high-level room before you start building.
+
+**Great Team** turns that room into a skill.  
+You give it an idea, PRD, feature draft, game concept, or agent workflow, and it brings several strong lenses onto the same project so you can see:
+
+- what the project really is
+- where the first wedge is
+- what should be cut now
+- what should be tested first
 
 ![Great Team cover](./docs/assets/great-team-cover.svg)
+
+## Why it is called Great Team
+
+### Great
+
+“Great” is not about prestige.  
+It points to a higher standard of judgment:
+
+- seeing tensions normal advice misses
+- asking harder questions
+- being stricter about scope, coherence, and quality
+- pushing beyond “can this be built?” toward “is this worth building, and in what form?”
+
+### Team
+
+“Team” is not about stacking job titles.  
+It means **multiple strong lenses pulling on the same project until the standard gets higher and the decision gets sharper**.
+
+Philosophy raises the bar on meaning.  
+Writing raises the bar on clarity.  
+Science raises the bar on testability.  
+Critique forces cuts.  
+Social psychology checks how people will interpret, resist, or misread the thing.
+
+The value of `Great Team` is that it compresses this team-level judgment density into a skill you can invoke directly.
+
+## What makes this skill valuable
+
+### 1. It gives one builder a high-level review room
+
+Most builders will never actually have this room on demand.  
+`Great Team` gives them access to a rarer resource: **cross-disciplinary, high-standard judgment with internal tension and counterweight**.
+
+### 2. It sharpens V1
+
+Many projects do not fail because they are uninteresting.  
+They fail because V1 is too broad, too soft, or too evenly spread.  
+`Great Team` is designed to compress a fuzzy direction into a clearer wedge.
+
+### 3. It cuts the wrong version earlier
+
+Its value often comes less from what it adds and more from what it helps remove early.
+
+### 4. It lets judgment move ahead of execution
+
+The faster execution gets, the more important pre-build judgment becomes.
 
 ## The problem it solves
 
@@ -28,11 +82,7 @@ What is expensive now is judgment:
 - which risk will distort the project first
 - what the smallest useful next experiment is
 
-The real problem for many builders today is not:
-
-> “I cannot build this.”
-
-It is:
+The real problem for many builders today is:
 
 > **“I can build this too fast, so I can also build the wrong version too fast.”**
 
@@ -84,7 +134,7 @@ Its goal is:
 3. map those lenses to the functions under review
 4. converge on a decision-dense memo
 
-These “great lenses” are not roleplay personas. They are judgment systems, such as:
+These “great lenses” are judgment systems, such as:
 
 - Philosopher
 - Writer
@@ -120,19 +170,12 @@ They usually share one trait:
 
 > **execution is no longer the bottleneck; judgment is.**
 
-## What it is not
+## What it will not solve for you
 
-`Great Team` is not:
-
-- a celebrity imitation engine
-- multi-agent theater
-- a general-purpose agent platform
-- a fake company simulator
-- an execution tool that builds the whole project for you
-
-It does one thing:
-
-> **help you make a better decision before you start building.**
+It will not execute the project for you.  
+It will not replace real user research.  
+It does not depend on noisy multi-agent theater.  
+Its job is narrower and more valuable: **make the project judgment sharper before execution begins.**
 
 ## Quick start
 
